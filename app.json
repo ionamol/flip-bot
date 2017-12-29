@@ -1,0 +1,7 @@
+{
+    "name": "Flip Delivery",
+    "description": "Sample App with Ionic and Node.js",
+    "repository": "https://github.com/ionamol/flip-bot",
+    "logo": "https://node-js-sample.herokuapp.com/node.svg",
+    "keywords": ["node", "express", "ionic", "directory"]
+}
